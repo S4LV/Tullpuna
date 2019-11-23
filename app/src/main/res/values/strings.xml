@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">color picker 2 try</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="be_creative">Be Creative!</string>
+    <string name="sw">SW-</string>
+    <string name="color">Color</string>
+    <string name="undo">Undo</string>
+</resources>
